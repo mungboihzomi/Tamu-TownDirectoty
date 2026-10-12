@@ -1,53 +1,56 @@
 {
-  "town_name": "တမူးမြို့နယ် လမ်းညွှန်",
+  "banners": [
+    "https://raw.githubusercontent.com/mungboihzomi/Tamu-TownDirectoty/main/banner1.jpg",
+    "https://raw.githubusercontent.com/mungboihzomi/Tamu-TownDirectoty/main/banner2.jpg",
+    "https://raw.githubusercontent.com/mungboihzomi/Tamu-TownDirectoty/main/banner3.jpg"
+  ],
   "categories": [
     {
-      "category_name": "ဆိုင်များ",
-      "icon": "🛒",
+      "category_name": "စားသောက်ဆိုင်",
+      "icon": "🍽️",
       "items": [
         {
-          "name": "Tamu Main Shop",
-          "phones": [
-            "09-123456789",
-            "09-987654321"
-          ],
-          "direction": "Tamu, Sagaing"
+          "name": "Tamu Garden Restaurant",
+          "direction": "မြို့မရပ်ကွက်၊ မြို့ပတ်လမ်း၊ တမူးမြို့",
+          "phones": ["09123456789", "09987654321"]
         },
         {
-          "name": "TT Baby ဆိုင်",
-          "phones": [
-            "09-55555555",
-            "09-66666666"
-          ],
-          "direction": "ဗဟိုလမ်းမကြီး၊ မြို့မဈေးရှေ့"
+          "name": "Border View Cafe",
+          "direction": "နန်းဖာလုံဈေးအနီး၊ တမူးမြို့",
+          "phones": ["09401234567"]
         }
       ]
     },
     {
-      "category_name": "ဆေးရုံ",
-      "icon": "🏥",
+      "category_name": "တည်းခိုခန်းများ",
+      "icon": "🏨",
       "items": [
         {
-          "name": "မြို့နယ်ပြည်သူ့ဆေးရုံကြီး",
-          "phones": [
-            "072-xxxxx1",
-            "072-xxxxx2"
-          ],
-          "direction": "ဆေးရုံလမ်း၊ ရပ်ကွက်ကြီး(၁)"
+          "name": "Grand Tamu Hotel",
+          "direction": "ရန်ကုန်-တမူးလမ်းမကြီး၊ တမူးမြို့",
+          "phones": ["09791112223", "09455566778"]
         }
       ]
     },
     {
-      "category_name": "ကျောင်း",
-      "icon": "🏫",
+      "category_name": "နိုင်ငံခြားဆေးနှင့် မြန်မာဆေးမျိုးစုံဆိုင်",
+      "icon": "💊",
       "items": [
         {
-          "name": "အထက (၁) တမူး",
-          "phones": [
-            "072-111111",
-            "072-222222"
-          ],
-          "direction": "ကျောင်းလမ်း၊ မြို့မရပ်ကွက်"
+          "name": "Aung San Pharmacy",
+          "direction": "ဈေးကြီးလမ်း၊ တမူးမြို့",
+          "phones": ["09250123456"]
+        }
+      ]
+    },
+    {
+      "category_name": "အိမ်ဆောက်ပစ္စည်းအရောင်းဆိုင်",
+      "icon": "🏗️",
+      "items": [
+        {
+          "name": "Shwe Pyi Thar Hardware",
+          "direction": "အမှတ် (၁) ရပ်ကွက်၊ တမူးမြို့",
+          "phones": ["09699887766", "09332211445"]
         }
       ]
     }
